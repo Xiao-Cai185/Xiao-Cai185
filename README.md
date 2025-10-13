@@ -29,7 +29,7 @@ Hi there 🫐, I'm **[Hcaicai]**. You can simply call me **CaiCai** 🌊.
 ![Cloud & System I use](https://skillicons.dev/icons?i=cloudflare,aws,gcp,azure,ubuntu,debian,kali,windows)
 
 ### 🎨 Creative Software I Use
-![Creative Software I use](https://skillicons.dev/icons?i=ae,pr,ps,au)
+![Creative Software I use](https://skillicons.dev/icons?i=ae,au,pr,ps)
 
 ### 
 <details>
