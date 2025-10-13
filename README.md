@@ -1,4 +1,4 @@
-🤖 > [!tip]
+> [!tip]
 > 💫 A little blue kid who is not good at programming but has a lot of ideas. 🌊
 
 ## 💡 Basic Info
