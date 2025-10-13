@@ -24,7 +24,7 @@ Hi there 🫐, I'm **[Hcaicai]**. You can simply call me **CaiCai** 🌊.
 ## 💫 Currently Status
 
 ### 🔧 Languages and Tools I Use
-![Languages & Tools I use](https://skillicons.dev/icons?i=html,css,vue,vite,python,go,js,cs,dotnet,markdown,jupyter,docker,linux,bash,vscode,github,wordpress)
+![Languages & Tools I use](https://skillicons.dev/icons?i=html,css,vue,vite,python,go,js,cs,dotnet,markdown,docker,linux,bash,vscode,github,wordpress)
 ### ☁️ Cloud & System I Use
 ![Cloud & System I use](https://skillicons.dev/icons?i=cloudflare,aws,gcp,azure,ubuntu,debian,kali,windows)
 
