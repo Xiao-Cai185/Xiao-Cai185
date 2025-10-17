@@ -1,9 +1,9 @@
 > [!tip]
-> 💫 A little blue kid who is not good at programming but has a lot of ideas. 🌊
+> 💫 A little blue kid who is not good at programming but has a lot of ideas.💡
 
-## 💡 Basic Info
+## Hi there 👋
 
-Hi there 🫐, I'm **[Hcaicai]**. You can simply call me **CaiCai** 🌊.
+ I'm **[Hcaicai]**. You can simply call me **CaiCai** 🌊.
 
 + 🪁 A little blue kid who is not good at programming but has a lot of ideas.
 + 🛰️ What I'm working with:
@@ -14,6 +14,8 @@ Hi there 🫐, I'm **[Hcaicai]**. You can simply call me **CaiCai** 🌊.
 + 🧰 Programming languages I use:
   + 🐍 Python
   + 🐹 Go
+  + 🌐 HTML
+  + 🎨 CSS
   + ☕ JavaScript
   + ⚙️ C# (just a little)
 + 📫 Contact me:
